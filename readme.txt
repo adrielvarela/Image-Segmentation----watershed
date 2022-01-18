@@ -1,4 +1,5 @@
-Used a file in my computer with the pathname, in order to test the code you must link an image you would like to use 
-with its own path that matches your desired file
+I used an img file in my computer for cv2's .imread method. 
+In order to test the code replace pathname in the 'cv2.imread()' to match
+path of your desired image
 
 --Sorry about that :)
